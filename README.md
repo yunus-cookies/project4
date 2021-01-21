@@ -1,8 +1,10 @@
-# Code challenge
+<div style='position:relative; padding-bottom:calc(41.86% + 44px)'><iframe src='https://gfycat.com/ifr/HauntingLeadingDairycow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
 
-So you made it to the Code Challenge 🥳
+# Code challenge - Yunus
 
-## What we are building
+First of, thank you for the opportunity. I learned alot during the process of developing this.
+
+## Pre-read
 
 The app we are building is fairly simple and open-ended for you to make the decisions.
 
