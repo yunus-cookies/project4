@@ -1,8 +1,7 @@
-<div style='position:relative; padding-bottom:calc(41.86% + 44px)'><iframe src='https://gfycat.com/ifr/HauntingLeadingDairycow' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
-
 # Code challenge - Yunus
 
 First of, thank you for the opportunity. I learned alot during the process of developing this.
+Here is a <a href='https://gfycat.com/ifr/HauntingLeadingDairycow'>preview of the app</a>.
 
 ## Pre-read
 
