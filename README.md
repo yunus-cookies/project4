@@ -51,6 +51,19 @@ I tried to make the swipes look more engaging and smooth, but I didn't want to s
 For the indication, if whether the user has viewed the application or not, I used a state of list of objects which object input: "Status: id", to track it, and
 a function "seenApplication" to update it.
 
+### Added/modified files and folders
+
+- components/Accordion/index.tsx
+- components/Applications/index.tsx
+- components/Profile/index.tsx
+- components/Profile/ProfileData.tsx
+- components/Profile/ProfileElements.tsx
+- components/Restaurants/index.tsx
+- dummyData/applications.json
+- models/application.ts
+- App.tsx
+- tsconfig.json
+
 # Conclusion
 
 Overall, I thank you for the opportuniy. It was a fun little interesting task to spend my time solving. I got alot more comfortable with typescript and react-native.<br></br>
