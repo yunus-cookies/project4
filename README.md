@@ -51,7 +51,7 @@ I tried to make the swipes look more engaging and smooth, but I didn't want to s
 For the indication, if whether the user has viewed the application or not, I used a state of list of objects which object input: "Status: id", to track it, and
 a function "seenApplication" to update it.
 
-### Added/modified files and folders
+## Added/modified files and folders
 
 - components/Accordion/index.tsx
 - components/Applications/index.tsx
