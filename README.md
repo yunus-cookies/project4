@@ -63,6 +63,9 @@ a function "seenApplication" to update it.
 - models/application.ts
 - App.tsx
 - tsconfig.json
+- assets/images/Slurp.png
+- assets/images/McDonalds.png
+- assets/images/Noma.png
 
 # Conclusion
 
