@@ -1,6 +1,6 @@
 # Code challenge
 
-<a href='https://gfycat.com/ifr/HauntingLeadingDairycow'>Preview</a>.
+<a href='https://gfycat.com/ifr/HauntingLeadingDairycow'>Preview</a>
 
 ## Prerequisites
 
